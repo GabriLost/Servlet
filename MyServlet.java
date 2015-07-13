@@ -43,7 +43,6 @@ public class MyServlet extends HttpServlet implements Servlet
             out.println("</head>");
             out.println("<body>");
             out.println("<h3> Список новостей </h1>");
-
             //Таблица
             out.println("<table>");
             //Заголовок
