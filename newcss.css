@@ -1,0 +1,18 @@
+table { 
+    font-size: 12pt; 
+    border:3px solid black; 
+} 
+th { 
+    width: 1000px; 
+    height: 20px; 
+    text-align: center; 
+    background-color: wheat; 
+    border:1px solid black; 
+} 
+ 
+td { 
+    width: 50px; 
+    height: 20px; 
+    text-align: center; 
+    border:1px solid black; 
+}
